@@ -4,6 +4,7 @@
 
 ### pr0201
 **Pasos a realizar:**
+
 1) Realización de un nuevo repositorio en Github.
 
 2) Una vez creado debera vincularse a la carpeta creada con la misma estructura pedida en el ejercicio.
@@ -26,10 +27,15 @@
 **Pasos a realizar para formular una factura:**
 
 1) Lo primero sera añadir la opcion de las Facturas a nuestro Odoo
+
 2) Una vez ya incluida lo que tendremos que hacer es añadir una compañia nueva y darle los valores que nos piden, seran los datos de la compañia como por ejemplo el nombre de esta su dirección su email...
+
 3) Posterior mente nos dira que modifiquemos el formato de nuestras facturas, aqui se le añadira su fondo, formato....
+
 4) Una vez echo esto tendremos que inportar los clientes. 
+
 5) Y por ultimo realizaremos la factura con uno de los clientes que hemos incluido anteriormente, aqui se indicara el importe a pagar del objeto, material...
+
 
 
 ### pr0302
@@ -78,3 +84,32 @@
 ```
     psql -U odoo odoo < backup.sql
 ```
+
+## ut04
+
+### PR0401: Ejercicios básicos en Python
+
+**Ejercicio 1)**
+
+![Imagenes](./Imagenes/Python1.1.png)
+![Imagenes](./Imagenes/Python1.2.png)
+
+**Ejercicio 2)**
+
+![Imagenes](./Imagenes/Python2.png)
+
+**Ejercicio 3)**
+
+![Imagenes]
+
+**Ejercicio 4)**
+
+![Imagenes]
+
+**Ejercicio 5)**
+
+![Imagenes]
+
+**Ejercicio 6)**
+
+![Imagenes]
