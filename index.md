@@ -1,8 +1,8 @@
 # SGE-aff
 
-## ut02
+## UT02
 
-### pr0201
+### pr0201 Preparación entorno con Docker
 **Pasos a realizar:**
 
 1) Realización de un nuevo repositorio en Github.
@@ -13,13 +13,13 @@
 
 4) Una vez echo esto antes de subir los cambios a Github deberemos ir a "Settings" de nuestro resitorio e ir a "Pages" cambiando la opcion "none" por la opcion "main", para asi poder realizar una presentación del contenido mas vistoso y fluido (como en este precioso momento). 
 
-### pr0202
+### pr0202 Entorno con Dockerfile
 **Pasos a realizar:**
 
 1) 
 
-## ut03
-### pr0301
+## UT03
+### pr0301 Facturas
 ![Imagenes](./Imagenes/1.png)
 ![Imagenes](./Imagenes/2.png)
 ![Imagenes](./Imagenes/3.png)
@@ -38,7 +38,7 @@
 
 
 
-### pr0302
+### pr0302 Facturas
 ![Imagenes](./Imagenes/5%20imagenes.png)
 
 **Pasos a realizar para añadir fotos del inventario de Google:**
@@ -53,7 +53,7 @@
 
 5) Y solo quedaria ir a los Productos, tendremos que insertar los valores de un archivo que nos an dado, y en la opcion de "Accion" le daremos a "Obtener imágenes de Google Imágenes" y se nos mostrara la foto que se relaciona a ese producto (no funciona con todos los productos).
 
-### pr0303
+### pr0303 Copias de seguridad
 **Pasos a realizar para conseguir una copia de seguridad en PostgreSQL:**
 
 1) Realizaremos la copia de seguridad con el comando:
@@ -85,7 +85,7 @@
     psql -U odoo odoo < backup.sql
 ```
 
-## ut04
+## UT04
 
 ### PR0401: Ejercicios básicos en Python
 
@@ -287,9 +287,19 @@ El resultado quedaria asi:
 
 **Ejercicio 9)**
 ```
+numero = int(input("Dime un numero: "))
+n1 = 1
+print(n1)
+n2 = 1
+print(n2)
 
-```
+for i in range(3, numero + 1):
+    resultado = n1 + n2
+    n1 = n2
+    n2 = resultado
+    print(resultado)
+``` 
 
 El resultado quedaria asi:
 
-![Imagenes]
+![Imagenes](./Imagenes/Python9.png)
