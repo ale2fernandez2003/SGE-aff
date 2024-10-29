@@ -1,23 +1,26 @@
 # SGE-aff
 
-## UT02
-### [pr0201](./pr0201.md): Preparación entorno con Docker
+## UT02: Instalación y configuración de un ERP
 
-### [pr0202](./pr0202.md): Entorno con Dockerfile
+### Practicas:
+[pr0201: Preparación entorno con Docker](./pr0201.md)
 
-
-## UT03
-### [pr0301](./pr0301.md): Facturas
+[pr0202: Entorno con Dockerfile](./pr0202.md)
 
 
-### [pr0302](./pr0302.md): Inventario y Google Imágenes
+## UT03: Implantación de un ERP en la empresa
+
+### Practicas:
+[pr0301: Facturas](./pr0301.md)
+
+[pr0302: Inventario y Google Imágenes](./pr0302.md)
+
+[pr0303: Copias de seguridad](./pr0303.md)
 
 
-### [pr0303](./pr0303.md): Copias de seguridad
+## UT04: El lenguaje de programación Python
 
+### Practicas:
+[PR0401: Ejercicios básicos en Python](./PR0401.md)
 
-## UT04
-### [PR0401](./PR0401.md): Ejercicios básicos en Python
-
-
-### [PR0402](./PR0402.md): Ejercicios de cadenas Python
+[PR0402: Ejercicios de cadenas Python](./PR0402.md)
