@@ -5,8 +5,6 @@
 ### Practicas:
 [pr0201: Preparación entorno con Docker](./pr0201.md)
 
-[pr0202: Entorno con Dockerfile](./pr0202.md)
-
 
 ## UT03: Implantación de un ERP en la empresa
 
@@ -23,4 +21,8 @@
 ### Practicas:
 [PR0401: Ejercicios básicos en Python](./PR0401.md)
 
-[PR0402: Ejercicios de cadenas Python](./PR0402.md)
+[PR0402: Ejercicios de cadenas en Python](./PR0402.md)
+
+[PR0403: Ejercicios con listas en Python](./PR0403.md)
+
+[PR0404: Ejercicios con diccionarios en Python](./PR0404.md)
