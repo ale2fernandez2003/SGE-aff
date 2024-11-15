@@ -26,3 +26,5 @@
 [PR0403: Ejercicios con listas en Python](./PR0403.md)
 
 [PR0404: Ejercicios con diccionarios en Python](./PR0404.md)
+
+[PR0405: Ejercicios de programación funcional en Python](./PR0405.md)
