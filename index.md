@@ -28,3 +28,9 @@
 [PR0404: Ejercicios con diccionarios en Python](./PR0404.md)
 
 [PR0405: Ejercicios de programación funcional en Python](./PR0405.md)
+
+
+## UT05: Entorno de desarrollo y primer módulo Odoo
+
+### Practicas:
+[PR0501: Primer módulo en Odoo](./PR0501.md)
