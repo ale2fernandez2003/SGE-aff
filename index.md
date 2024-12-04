@@ -34,3 +34,5 @@
 
 ### Practicas:
 [PR0501: Primer módulo en Odoo](./PR0501.md)
+
+[PR0502: Módulo con dos modelos](./PR0502.md)
