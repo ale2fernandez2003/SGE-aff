@@ -36,3 +36,16 @@
 [PR0501: Primer módulo en Odoo](./PR0501.md)
 
 [PR0502: Módulo con dos modelos](./PR0502.md)
+
+
+## UT06: Desarrollo de módulos de Odoo: Modelo y vista
+
+### Practicas:
+[PR0601: Campos del modelo](./PR0601.md)
+
+[PR0602: Campos relacionales](./PR0602.md)
+
+[PR0603: Campos calculados y restricciones](./PR0603.md)
+
+[PR0603: Vista de tipo lista](./PR0604.md)
+
