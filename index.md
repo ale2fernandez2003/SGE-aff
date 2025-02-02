@@ -47,5 +47,14 @@
 
 [PR0603: Campos calculados y restricciones](./PR0603.md)
 
-[PR0603: Vista de tipo lista](./PR0604.md)
+[PR0604: Vista de tipo lista](./PR0604.md)
 
+[PR0605: Vistas de tipo formulario](./PR0605.md)
+
+
+## UT07: Desarrollo de módulos de Odoo: Controlador, Herencia y Web Controllers
+
+### Practicas:
+[PR0601: Página estática y dinámica básica](./PR0701.md)
+
+[PR0602: API REST](./PR0702.md)
