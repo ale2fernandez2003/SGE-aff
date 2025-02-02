@@ -43,7 +43,7 @@
 ### Practicas:
 [PR0601: Campos del modelo](./PR0601.md)
 
-[PR0602: Campos relacionales](./PR0602.md)
+[PR0602: Campos relacionales]
 
 [PR0603: Campos calculados y restricciones](./PR0603.md)
 
@@ -55,6 +55,6 @@
 ## UT07: Desarrollo de módulos de Odoo: Controlador, Herencia y Web Controllers
 
 ### Practicas:
-[PR0601: Página estática y dinámica básica](./PR0701.md)
+[PR0701: Página estática y dinámica básica](./PR0701.md)
 
-[PR0602: API REST](./PR0702.md)
+[PR0702: API REST](./PR0702.md)
