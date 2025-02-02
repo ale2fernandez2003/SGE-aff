@@ -41,20 +41,20 @@
 ## UT06: Desarrollo de módulos de Odoo: Modelo y vista
 
 ### Practicas:
-[PR0601: Campos del modelo](./PR0601.md)
+[PR0601: Campos del modelo](./PR601.md)
 
 [PR0602: Campos relacionales]
 
-[PR0603: Campos calculados y restricciones](./PR0603.md)
+[PR0603: Campos calculados y restricciones](./PR603.md)
 
-[PR0604: Vista de tipo lista](./PR0604.md)
+[PR0604: Vista de tipo lista](./PR604.md)
 
-[PR0605: Vistas de tipo formulario](./PR0605.md)
+[PR0605: Vistas de tipo formulario](./PR605.md)
 
 
 ## UT07: Desarrollo de módulos de Odoo: Controlador, Herencia y Web Controllers
 
 ### Practicas:
-[PR0701: Página estática y dinámica básica](./PR0701.md)
+[PR0701: Página estática y dinámica básica](./PR701.md)
 
-[PR0702: API REST](./PR0702.md)
+[PR0702: API REST](./PR702.md)
