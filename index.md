@@ -1,5 +1,8 @@
 # SGE-aff
 
+## Proyecto 2ªEvaluación
+[Proyecto de la 2ª Evaluación. Extensión del modelo de suscripciones mediante métricas y estadísticas](./Proyecto%202ª%20Evaluacion.md)
+
 ## UT02: Instalación y configuración de un ERP
 
 ### Practicas:
