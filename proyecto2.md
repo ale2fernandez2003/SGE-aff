@@ -196,28 +196,28 @@
 ## Capturas del módulo ejecutado en odoo:
 ### Metricas:
 ![Imagenes](./Imagenes/proyecto.png)
-
+---
 ![Imagenes](./Imagenes/proyecto6.png)
-
+---
 ![Imagenes](./Imagenes/proyecto7.png)
-
+---
 ![Imagenes](./Imagenes/proyecto8.png)
-
+---
 ![Imagenes](./Imagenes/proyecto9.png)
-
+---
 
 ### Suscripciones (Basico)
 ![Imagenes](./Imagenes/proyecto2.png)
-
+---
 ![Imagenes](./Imagenes/proyecto4.png)
-
+---
 ![Imagenes](./Imagenes/proyecto5.png)
-
+---
 
 ### Suscripciones (Uso)
 
 ![Imagenes](./Imagenes/proyecto3.png)
-
+---
 #### El new seria igual que las imagenes de Suscripciones (Basico)
 
 
